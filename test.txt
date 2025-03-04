@@ -1,4 +1,3 @@
-
 adsgasdahjsdh
 
 user2 nhe
@@ -14,6 +13,8 @@ aksjdlasd
 done
 
 done master
+
+------------------------------------------
 adsgasdahjsdh
 
 user 3 start
@@ -35,3 +36,51 @@ chuyen sang nhanh 1
 
 
 user 3 done
+
+
+
+
+----------------------------------------
+adsgasdahjsdh
+
+user 4 start
+
+user 4 coding
+
+
+user 4 done
+
+
+
+------------------------------------------
+user 5 start
+
+user 5 coding
+
+user 5 done
+
+
+user 4 check code
+
+user 4 thấy sai ở đoạn user 5 coding
+
+------------------------------------------
+user 4 fixing coding for user 5
+
+user 4 fixing coding for user 5 dne
+
+user 4 chuyen ve cho user 5 xem lai
+------------------------------------------
+
+user 5 xem lai
+
+user 5 fixing
+
+user 5 done
+------------------------------------------
+
+user 4 checking
+
+user 4 done
+
+------------------------------------------
