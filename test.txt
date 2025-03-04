@@ -14,9 +14,21 @@ user 5 start
 user 5 coding
 
 user 5 done
->>>>>>> user_5
 
 
 user 4 check code
 
 user 4 thấy sai ở đoạn user 5 coding
+
+
+user 4 fixing coding for user 5
+
+user 4 fixing coding for user 5 dne
+
+user 4 chuyen ve cho user 5 xem lai
+
+user 5 xem lai
+
+user 5 fixing
+
+user 5 done
