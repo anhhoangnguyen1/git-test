@@ -3,3 +3,18 @@ adsgasdahjsdh
 user 3 start
 
 user 3 coding
+
+user 3 nhánh 2 coding 
+user 3 nhánh 2 fixing 2
+user 3 nhánh 2 chua xng, chuyen sang nhanh 3
+user 3 nhánh 3 start
+
+user 3 nhánh 3 fixing
+
+user 3 nhánh 3 done
+
+user 3 nhánh 2 xng
+
+chuyen sang nhanh 1
+
+
