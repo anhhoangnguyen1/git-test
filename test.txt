@@ -5,3 +5,10 @@ user 5 start
 user 5 coding
 
 user 5 done
+
+
+user 4 fixing coding for user 5
+
+user 4 fixing coding for user 5 dne
+
+user 4 chuyen ve cho user 5 xem lai
