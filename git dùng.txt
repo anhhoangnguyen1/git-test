@@ -8,3 +8,5 @@ $ git push -d origin branch_mane - Xóa một branch trên remote repository.
 $ git push -f origin branch_mane - Push force sẽ apply toàn bộ log ở local của bạn lên branch ở repo, bất chấp log 2 nơi khác nhau. (Xóa vĩnh viễn branch cũ Push branch mới. Dễ gây conflict cho người khác cẩn trọng trước khi dùng)
 
 13. Git branch:
+
+done
